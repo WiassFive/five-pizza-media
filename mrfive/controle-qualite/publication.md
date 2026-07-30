@@ -1,18 +1,12 @@
 # Publication
 
-## Legende
+**Cover :** IL A TOUT MANGE
 
-Il voulait juste faire un deuxieme controle qualite.
+**Caption :**
+Il a mange toute la Nashville avant de venir se plaindre. Mr Five lui a propose un vrai controle qualite... et il a accepte la regle tout seul.
 
-Arnaque ou genie ?
+**Hashtags :**
+#MrFive #FivePizzaOriginal #PizzaNashville #Humour #TikTokFood
 
-#FivePizzaOriginal #MrFive #PizzaNashville #FoodTok #Humour
-
-## Commentaire epingle
-
-Vous lui refaites la pizza ou vous lui tendez le terminal ?
-
-## Couverture
-
-- Image : Mr Five montre la boite vide et les croutes.
-- Texte : `IL A TOUT MANGE`
+**Commentaire epingle :**
+Il doit payer les deux, oui ou non ?

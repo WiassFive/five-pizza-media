@@ -1,12 +1,13 @@
-MR FIVE : Attends, tu en veux une deuxieme alors que tu as fini la premiere ?
-CLIENT : J'ai pas fini. Regarde, j'ai laisse les croutes.
-MR FIVE : D'accord, qu'est-ce qui n'allait pas, exactement ?
-CLIENT : Le poulet etait trop croustillant et la sauce, franchement, elle etait trop bonne.
-MR FIVE : Donc ton probleme, c'est que tu l'as trop aimee.
-CLIENT : Mon probleme, c'est que j'ai pas eu le temps de bien verifier.
+MR FIVE : Monsieur, vous reclamez une deuxieme Nashville gratuite, mais dans votre boite, il reste meme pas une bouchee.
+CLIENT : Justement. J'ai tout mange pour etre certain que le probleme venait bien de la pizza.
+MR FIVE : D'accord. Alors dites-moi precisement ce qui n'allait pas.
+CLIENT : Le poulet craquait trop, la sauce collait au miel, et les cornichons donnaient envie d'en reprendre.
+MR FIVE : La, vous ne vous plaignez pas. Vous etes en train de me faire une publicite.
+CLIENT : Pas du tout. Je vous explique pourquoi j'ai ete oblige d'aller jusqu'au bout.
+MR FIVE : Tres bien. Je vous en refais une. Si elle est differente, je vous l'offre.
+MR FIVE : Si elle est identique, vous payez les deux.
 [INSERT NASHVILLE]
-MR FIVE : Pas de souci. Le deuxieme test coute neuf euros quatre-vingt-dix.
-CLIENT : Ah non ! Maintenant que je la revois, je suis convaincu !
-MR FIVE : Tres bien. Je reprends cette boite.
-CLIENT : Attends, j'ai dit que j'etais convaincu, pas que j'en voulais pas.
-MR FIVE : Le controle qualite vient de devenir payant.
+CLIENT : C'est exactement pareil. Vous voyez ? Vous n'avez absolument rien corrige.
+MR FIVE : Parfait. Donc vous confirmez que la premiere etait conforme.
+CLIENT : Attendez... quand vous disiez payer les deux, vous parliez vraiment des deux ?
+MR FIVE : Oui. Et pour le troisieme controle qualite, je prends une caution.
